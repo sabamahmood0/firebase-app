@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
         automaticallyImplyLeading: true,
       ),
       body: const Center(
-        child: Text("Welcome to My App",
+        child: Text("Welcome To My App",
             style: TextStyle(
                 color: Colors.green,
                 fontSize: 20,
